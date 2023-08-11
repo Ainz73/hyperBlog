@@ -1,0 +1,5 @@
+This is a small demo with GIT and Github that we are working right now
+
+Here just need plane text and nothing else
+
+:D
